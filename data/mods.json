@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Cyber Engine Tweaks",
+    "description": "Scripting framework and performance tweaks for Cyberpunk 2077, enabling Lua mods and console access.",
+    "version": "1.32.2",
+    "downloadUrl": "https://example.com/mods/cyber-engine-tweaks",
+    "gameId": 1
+  },
+  {
+    "id": 2,
+    "title": "Night City Weather Overhaul",
+    "description": "Rebalances lighting, fog density, and rain frequency across all districts of Night City.",
+    "version": "2.4.0",
+    "downloadUrl": "https://example.com/mods/night-city-weather",
+    "gameId": 1
+  },
+  {
+    "id": 3,
+    "title": "HD Reworked Project",
+    "description": "High-resolution textures and improved 3D models that preserve the original artistic style of The Witcher 3.",
+    "version": "12.0",
+    "downloadUrl": "https://example.com/mods/hd-reworked",
+    "gameId": 2
+  },
+  {
+    "id": 4,
+    "title": "SkyUI",
+    "description": "Overhauls the inventory, magic, and favorites menus for mouse and keyboard players.",
+    "version": "5.2SE",
+    "downloadUrl": "https://example.com/mods/skyui",
+    "gameId": 3
+  },
+  {
+    "id": 5,
+    "title": "Unofficial Skyrim Special Edition Patch",
+    "description": "Comprehensive bugfixing mod addressing hundreds of quest, NPC, and item issues.",
+    "version": "4.3.2",
+    "downloadUrl": "https://example.com/mods/ussep",
+    "gameId": 3
+  },
+  {
+    "id": 6,
+    "title": "Improved UI ReleaseReady",
+    "description": "Cleaner character creation screens, party frames, and tooltip layouts for Baldur's Gate 3.",
+    "version": "4.1.1",
+    "downloadUrl": "https://example.com/mods/improved-ui",
+    "gameId": 4
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "developer": "CD Projekt Red",
+    "coverImageUrl": "/covers/cyberpunk-2077.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Witcher 3: Wild Hunt",
+    "slug": "witcher-3",
+    "developer": "CD Projekt Red",
+    "coverImageUrl": "/covers/witcher-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Skyrim Special Edition",
+    "slug": "skyrim-se",
+    "developer": "Bethesda Game Studios",
+    "coverImageUrl": "/covers/skyrim-se.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "developer": "Larian Studios",
+    "coverImageUrl": "/covers/baldurs-gate-3.jpg"
+  }
+]
